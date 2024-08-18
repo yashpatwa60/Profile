@@ -1,0 +1,125 @@
+{
+    "productListing": [
+        {   
+            "id": 1,
+            "title": "Boult Drift BT Calling 1.69 HD Display, 140+ Watchfaces, 475Nits Brightness, IP67 Smartwatch  (Black Strap, Free Size)", 
+            "size": "Black Strap, Free Size",
+            "rate": {
+                "original_rate": "₹1,399",
+                "strike_rate": "₹7,999",
+                "off": "82% off"
+            },
+            "rating": "4.1",
+            "detail_rating": "2,34,826 Ratings & 15,815 Reviews",
+            "img": "/src/assets/image1.webp",
+            "available_offers": {
+                "first": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+                "second": "Bank Offer5% Cashback on Flipkart Axis Bank CardT&C",
+                "third": "Bank Offer10% off up to ₹1,500 on AU Credit Cards Transactions.on orders of ₹5,000 and aboveT&C",
+                "fourth": "Special PriceGet extra 80% off (price inclusive of cashback/coupon)T&C"
+            },
+            "quantity": 1
+        },
+        {
+            "id": 2,
+            "title": "Boult Drift Pro 1.78 AMOLED, BT Calling, 800Nits Brightness, Complete Health Tracking Smartwatch  (Blue Strap, Free Size)", 
+            "size": "Black Strap, Free Size",
+            "rate": {
+                "original_rate": "₹2,199",
+                "strike_rate": "₹9,999",
+                "off": "78% off"
+            },
+            "rating": "4.1",
+            "detail_rating": "2,34,826 Ratings & 15,815 Reviews",
+            "img" : "/src/assets/image2.webp",
+            "available_offers": {
+                "first": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+                "second": "Bank Offer5% Cashback on Flipkart Axis Bank CardT&C",
+                "third": "Bank Offer10% off up to ₹1,500 on AU Credit Cards Transactions.on orders of ₹5,000 and aboveT&C",
+                "fourth": "Special PriceGet extra 80% off (price inclusive of cashback/coupon)T&C"
+            },
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "title": "Fastrack Revoltt FS1|1.83 Display|BT Calling|Fastcharge|110+ Sports Mode|200+ WatchFaces Smartwatch  (Black Strap, Free Size)", 
+            "size": "Black Strap, Free Size",
+            "rate": {
+                "original_rate": "₹1,199",
+                "strike_rate": "₹3,995",
+                "off": "69% off"
+            },
+            "rating": "4.2",
+            "detail_rating": "2,24,799 Ratings & 16,379 Reviews",
+            "img" : "/src/assets/image3.webp",
+            "available_offers": {
+                "first": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+                "second": "Bank Offer5% Cashback on Flipkart Axis Bank CardT&C",
+                "third": "Bank Offer10% off up to ₹1,500 on AU Credit Cards Transactions.on orders of ₹5,000 and aboveT&C",
+                "fourth": "Special PriceGet extra 80% off (price inclusive of cashback/coupon)T&C"
+            },
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "title": "Noise Colorfit Icon 2 1.8'' Display with Bluetooth Calling, AI Voice Assistant Smartwatch  (Deep Wine Strap, Regular)", 
+            "size": "Black Strap, Free Size",
+            "rate": {
+                "original_rate": "₹1,399",
+                "strike_rate": "₹5,999",
+                "off": "76% off"
+            },
+            "rating": "4.1",
+            "detail_rating": "5,49,970 Ratings & 33,138 Reviews",
+            "img": "/src/assets/image4.webp",
+            "available_offers": {
+               "first": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+                "second": "Bank Offer5% Cashback on Flipkart Axis Bank CardT&C",
+                "third": "Bank Offer10% off up to ₹1,500 on AU Credit Cards Transactions.on orders of ₹5,000 and aboveT&C",
+                "fourth": "Special PriceGet extra 80% off (price inclusive of cashback/coupon)T&C"
+            },
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "title": "Fastrack Revoltt FS1|1.83 Display|BT Calling|Fastcharge|110+ Sports Mode|200+ WatchFaces Smartwatch  (Black Strap, Free Size)", 
+            "size": "Black Strap, Free Size",
+            "rate": {
+                "original_rate": "₹1,199",
+                "strike_rate": "₹3,995",
+                "off": "69% off"
+            },
+            "rating": "4.2",
+            "detail_rating": "2,24,799 Ratings & 16,379 Reviews",
+            "img": "/src/assets/image5.webp",
+            "available_offers": {
+                "first": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+                "second": "Bank Offer5% Cashback on Flipkart Axis Bank CardT&C",
+                "third": "Bank Offer10% off up to ₹1,500 on AU Credit Cards Transactions.on orders of ₹5,000 and aboveT&C",
+                "fourth": "Special PriceGet extra 80% off (price inclusive of cashback/coupon)T&C"
+            },
+            "quantity": 1
+        },
+        {
+            "id": 6,
+            "title": "beatXP Marv Neo 1.85'' HD Display Bluetooth Calling , Health Tracking & IP68 Smartwatch  (Electric Black Strap, Free Size)", 
+            "size": "Black Strap, Free Size",
+            "rate": {
+                "original_rate": "₹1,299",
+                "strike_rate": "₹6,499",
+                "off": "80% off"
+            },
+            "rating": "4.2",
+            "detail_rating": "2,24,799 Ratings & 16,379 Reviews",
+            "img": "/src/assets/image6.webp",
+            "available_offers": {
+                "first": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+                "second": "Bank Offer5% Cashback on Flipkart Axis Bank CardT&C",
+                "third": "Bank Offer10% off up to ₹1,500 on AU Credit Cards Transactions.on orders of ₹5,000 and aboveT&C",
+                "fourth": "Special PriceGet extra 80% off (price inclusive of cashback/coupon)T&C"
+            },
+            "quantity": 1
+        }
+
+    ]
+}
