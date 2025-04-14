@@ -1,5 +1,4 @@
 import React from 'react'
-import Image1 from "../assets/image1.webp"
 import Logo1 from "../assets/logo1.png"
 import Products from "../../db.json"
 import { useNavigate } from "react-router-dom";
