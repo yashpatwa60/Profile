@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react'
 import { useLocation } from 'react-router-dom'
-import Image1 from "../assets/image1.webp"
 import Logo1 from "../assets/logo1.png"
 import db from "../../db.json"
 import { useSelector, useDispatch } from 'react-redux'

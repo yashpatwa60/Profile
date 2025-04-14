@@ -1,5 +1,4 @@
 import React, {useState, useEffect} from 'react'
-import Image1 from "../assets/image1.webp"
 import { useParams, Link } from 'react-router-dom';
 import db from "../../db.json"
 import Logo1 from "../assets/logo1.png"
